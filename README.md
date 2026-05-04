@@ -32,10 +32,7 @@ I am consistently improving my problem-solving and coding skills.
 - File: day_06_journal_log.py
 - Description:Creates a user learning journal log and save them in text file.
 
-### 🔹 Day 07
-- File: tasklist_manager.py
-- Description:Creates a user tasks where add , view , mark completed , delete and exit from the tasklist and creates text file. .
----
+
 
 ## ▶️ How to Run
 1. Clone the repository
