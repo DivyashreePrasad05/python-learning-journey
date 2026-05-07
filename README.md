@@ -30,7 +30,7 @@ I am consistently improving my problem-solving and coding skills.
 
 ### 🔹 Day 06
 - File: day_06_journal_log.py
-- Description:Creates a user learning journal log and save them in text file.
+- Description:Creates a user learning journal log and save them in text file 
 
 
 
