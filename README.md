@@ -33,8 +33,12 @@ I am consistently improving my problem-solving and coding skills.
 - Description:Creates a user learning journal log and save them in text file 
 
 ### 🔹 Day 07
-- File: day_06_password_strength.py
+- File: day_07_password_strength.py
 - Description:Creates a user password and checks for strength and suggestion strong password.
+
+### 🔹 Day 08
+- File:day_08_live_countdown_timer.py
+- Description:Creates a timer based on user input. 
 
 
 
