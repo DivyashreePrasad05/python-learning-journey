@@ -40,8 +40,6 @@ I am consistently improving my problem-solving and coding skills.
 - File:day_08_live_countdown_timer.py
 - Description:Creates a timer based on user input. 
 
-
-
 ## ▶️ How to Run
 1. Clone the repository
 2. Open terminal
