@@ -13,16 +13,15 @@ Your program should:
 Bonus:
 - Use emojis in the result
 - Give playful advice based on the score range
-- Capitalize and center the final output in a framed box
 """
 
 def friendship(name1 , name2):
     score = 0
     name1 , name2 = name1.lower(), name2.lower()
     common_letter = set(name1) & set(name2)
-    vowels = set("aieou")
+    vowels = set("aeiou")
     score += len(common_letter) * 5
-    score += len(common_letter & vowels) * 2
+    score += len(common_letter & vowels) * 10
 
     return min(score , 100)
 
@@ -37,9 +36,9 @@ def run_friendship_calculator():
     
     if calculator >80:
         print("Your are prefect together like chai and biscute")
-    elif calculator >= 50:
+    elif calculator >= 30:
         print("You both look nice together make it better and best!")
-    elif calculator < 20:
+    else:
         print("your coffee and tea dont match together!")
 
 
