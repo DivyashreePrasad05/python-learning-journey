@@ -42,7 +42,7 @@ I am consistently improving my problem-solving and coding skills.
 
 ### 🔹 Day 09
 - File:day_09.py
-- Description:Calculates a input based friendship compatibility of two and gives a score range of 0 to 100. 
+- Description:Calculates a input based friendship compatibility of two and gives a score. 
 
 
 ## ▶️ How to Run
