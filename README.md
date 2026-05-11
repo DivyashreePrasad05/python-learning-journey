@@ -40,6 +40,11 @@ I am consistently improving my problem-solving and coding skills.
 - File:day_08_live_countdown_timer.py
 - Description:Creates a timer based on user input. 
 
+### 🔹 Day 09
+- File:day_09.py
+- Description:Calculates a input based friendship compatibility of two and gives a score range of 0 to 100. 
+
+
 ## ▶️ How to Run
 1. Clone the repository
 2. Open terminal
