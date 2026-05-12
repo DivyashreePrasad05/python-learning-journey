@@ -10,7 +10,7 @@ I am consistently improving my problem-solving and coding skills.
 
 ### 🔹 Day 01
 - File: day_01_self_intro_generator.py
-- Description: Generates a simple self introduction using user input
+- Description: Generates a simple self introduction using user input.
 
 ### 🔹 Day 02
 - File: day_02_stylish_bio_generator.py
@@ -18,7 +18,7 @@ I am consistently improving my problem-solving and coding skills.
 
 ### 🔹 Day 03
 - File: day_03_bill_splitter.py
-- Description: Splits bill among multiple people with 2 decimal precision
+- Description: Splits bill among multiple people with 2 decimal precision.
 
 ### 🔹 Day 04
 - File: day_04_minutes_alive_calculator.py
