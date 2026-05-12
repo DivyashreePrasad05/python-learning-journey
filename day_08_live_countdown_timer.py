@@ -18,7 +18,7 @@ while True:
     try:
         seconds = int(input("⏰ Enter the time to set the timer! : "))
         if seconds < 1:
-             print("enter the time that is greater than 0 ")
+             print("Enter the time that is greater than 0!")
              continue
         break
     except ValueError:
