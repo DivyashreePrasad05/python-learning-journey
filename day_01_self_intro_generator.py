@@ -8,7 +8,6 @@ A program should be :
  2.Form this data  warm friendly paragraph of self introduction
  3.Print the final paragraph in a clean and reable format.
  """
-
 import datetime
 
 name = input("What is your name? ")
