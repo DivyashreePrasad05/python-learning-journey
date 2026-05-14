@@ -33,7 +33,6 @@ Bonus:
 - Ask the user if they want to save the result into a `.txt` file.
 """
 
-
 import textwrap
 name = input(" Enter your name :").strip()
 profession = input("Enter your profession :").strip()
