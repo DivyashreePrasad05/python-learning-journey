@@ -66,8 +66,9 @@ print("*" * 50)
 save = input("Do you want to save your bio into tet file ? y / n :").lower()
 
 if save == "y":
-    filename = f"{name .lower().replace(" " , "_")}_bio.txt"
-    with open(filename , "w" , encoding="utf-8") as f:
-        f.write(bio)
-   
-    print("file saved")
+   filename = f"{name}.lower().replace(" ","_")_bio.txt"
+   with open ("filename" ,"w" , encoding = "utf-8") as f:
+      f.write(bio)
+
+print("file saved")
+      
